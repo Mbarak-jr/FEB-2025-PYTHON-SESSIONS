@@ -1,0 +1,5 @@
+This is the first line of text.
+Python is an amazing programming language.
+File handling is important in development.
+Reading and writing files is a useful skill.
+This challenge helps to practice file operations.
